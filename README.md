@@ -1,7 +1,7 @@
 # *The Rick and Morty API*
 
 <p align="left">
-  <img height="150" src="./src/img/rick-morty.png" />
+  <img height="250" src="./src/img/rick-morty.png" />
 </p>
 
 Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app). Utiliza la API pública [The Rick and Morty API](https://rickandmortyapi.com/)
